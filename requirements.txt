@@ -1,0 +1,7 @@
+matplotlib==3.2.2
+nltk==3.5
+numpy==1.23.2
+pandas==1.0.5
+pymystem3==0.2.0
+scikit_learn==1.1.2
+seaborn==0.10.1
